@@ -1,3 +1,5 @@
+<table align="center">
+<tr><td align="center">
 <div align="center">
 <pre>
 #    ._______ .___.__  .______  .________._______.______  ._____.___ .______  _____.______._
@@ -9,10 +11,21 @@
 #                                                 :                                         
 </pre>
 </div>
-
 <h2 align="center">Data Management & Model Training</h2>
-
+<p align="center">
+I work on data management, from ingestion, cleaning and modelling with Python, pandas, PySpark, SQL and Fabric,<br>
+and model training, with feature engineering and training workflows built on NumPy and pandas.<br>
+With a Full Stack background, I can also ship the app around the data, from Spring Boot APIs to React frontends.<br>
+</p>
 <h4 align="center"><a href="http://phasedmatt.com/">phasedmatt.com</a></h4>
+</td></tr>
+</table>
+
+<p align="center">
+<img src="assets/waveform.svg" alt="Animated audio waveform" width="900">
+</p>
+
+
 
 ## Software skills
 
@@ -57,6 +70,13 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
+### 🎧 Audio Programming
+![DSP](https://img.shields.io/badge/DSP-8E44AD?style=for-the-badge&logoColor=white)
+![JUCE](https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge&logoColor=black)
+![Librosa](https://img.shields.io/badge/Librosa-FF6F00?style=for-the-badge&logoColor=white)
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![FMOD](https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logoColor=white)
+
 ### ➕ Additional Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,20 +87,7 @@
 
 ---
 
-- **Data management:** ingestion, cleaning and modelling with Python, pandas, PySpark, SQL and Fabric.
-- **Model training:** feature engineering and training workflows built on NumPy and pandas.
-- **Full stack background:** I can ship the app around the data, from Spring Boot APIs to React frontends.
-
-## Portfolio
-
-<!-- Replace these placeholders with your own repos -->
-| Project | Description | Stack |
-| --- | --- | --- |
-| [project-one](https://github.com/phasedmatt/project-one) | Short description | Python, pandas |
-| [project-two](https://github.com/phasedmatt/project-two) | Short description | PySpark, Fabric |
-| [project-three](https://github.com/phasedmatt/project-three) | Short description | React, Spring Boot |
-
-## 📫 Contact
+## Contact
 
 - Website: <a href="http://phasedmatt.com/">phasedmatt.com</a>
 - Email: <a href="mailto:phasedmatt@proton.me">phasedmatt@proton.me</a>
