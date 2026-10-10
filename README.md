@@ -13,9 +13,9 @@
 </div>
 <h2 align="center">Data Management & Model Training</h2>
 <p align="center">
-I work on data management (ingestion, cleaning and modelling with Python, pandas, PySpark, SQL and Fabric)<br>
-and model training (feature engineering and training workflows built on NumPy and pandas).<br>
-With a Full Stack background, I can also ship the app around the data, from Spring Boot APIs to React frontends.<br>
+I work on data management (ingestion, cleaning and modelling with Python, pandas, PySpark, SQL and Fabric)
+and model training (feature engineering and training workflows built on NumPy and pandas).<br><br>
+With a Full Stack background, I can also ship the app around the data, from Spring Boot APIs to React frontends.<br><br>
 I also have an audio background, with experience in DSP and audio programming.
 </p>
 <h4 align="center"><a href="http://phasedmatt.com/">phasedmatt.com</a></h4>
