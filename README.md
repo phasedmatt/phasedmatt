@@ -1,12 +1,12 @@
 <div align="center">
 <pre>
- ______   ___   ___   ________   ______   ______   ______   ___ __ __   ________   _________  _________  
-/_____/\ /__/\ /__/\ /_______/\ /_____/\ /_____/\ /_____/\ /__//_//_/\ /_______/\ /________/\/________/\ 
-\:::_ \ \\::\ \\  \ \\::: _  \ \\::::_\/_\::::_\/_\:::_ \ \\::\| \| \ \\::: _  \ \\__.::.__\/\__.::.__\/ 
- \:(_) \ \\::\/_\ .\ \\::(_)  \ \\:\/___/\\:\/___/\\:\ \ \ \\:.      \ \\::(_)  \ \  \::\ \     \::\ \   
-  \: ___\/ \:: ___::\ \\:: __  \ \\_::._\:\\::___\/_\:\ \ \ \\:.\-/\  \ \\:: __  \ \  \::\ \     \::\ \  
-   \ \ \    \: \ \\::\ \\:.\ \  \ \ /____\:\\:\____/\\:\/.:| |\. \  \  \ \\:.\ \  \ \  \::\ \     \::\ \ 
-    \_\/     \__\/ \::\/ \__\/\__\/ \_____\/ \_____\/ \____/_/ \__\/ \__\/ \__\/\__\/   \__\/      \__\/ 
+#    ._______ .___.__  .______  .________._______.______  ._____.___ .______  _____.______._
+#    : ____  |:   |  \ :      \ |    ___/: .____/:_ _   \ :         |:      \ \__ _:|\__ _:|
+#    |    :  ||   :   ||   .   ||___    \| : _/\ |   |   ||   \  /  ||   .   |  |  :|  |  :|
+#    |   |___||   .   ||   :   ||       /|   /  \| . |   ||   |\/   ||   :   |  |   |  |   |
+#    |___|    |___|   ||___|   ||__:___/ |_.: __/|. ____/ |___| |   ||___|   |  |   |  |   |
+#                 |___|    |___|   :        :/    :/            |___|    |___|  |___|  |___|
+#                                                 :                                         
 </pre>
 </div>
 
@@ -19,8 +19,8 @@
 ### 🖥️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
